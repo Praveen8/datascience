@@ -1,0 +1,3 @@
+Based on the track of six months of the randomly picked customers, have collected those customers who left and stayed in the bank.
+
+Ask: To tell the bank which of their customers are at highest risk of leaving the bank.
